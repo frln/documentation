@@ -12,6 +12,7 @@ Javascript
     javascript/owl_component_system
     javascript/registries
     javascript/services
+    javascript/hooks
     javascript/javascript_cheatsheet
     javascript/javascript_reference
     javascript/mobile
